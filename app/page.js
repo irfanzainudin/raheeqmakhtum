@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import styles from './page.module.css'
+import Image from "next/image";
+import styles from "./page.module.css";
 
 export default function Home() {
   return (
@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By{' '}
+            By{" "}
             <Image
               src="/vercel.svg"
               alt="Vercel Logo"
@@ -90,6 +90,23 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <div>
+        <h1>Ar-Raheeq Al-Makhtum</h1>
+        <h2>Kedudukan Arab dan Bangsa-bangsanya</h2>
+        <p>
+          Sebenarnya sirah Nabi Muhammad SAW pada hakikatnya merupakan sejarah
+          satu risalah dan misi yang dibawa oleh Rasulullah SAW kepada
+          masyarakat manusia, dengan risalah inilah baginda membebaskan manusia
+          daripada kegelapan kepada cahaya dan dari perhambaan sesama manusia
+          kepada pengabdian diri kepada Allah. Oleh yang demikian tak mungkin
+          dapat dilukiskan gambaran yang indah dengan sesempurnanya di ruang
+          mata kecuali setelah dibandingkan latar belakang kelahiran risalah ini
+          dengan kesan-kesan pencapaiannya. Oleh yang demikian maka sepatutnya
+          kita membentangkan di sini sebahagian hal mengenai bangsa Arab dan
+          perkembangannya sebelum Islam, dan suasana persekitaran di mana
+          Muhammad SAW diutuskan.
+        </p>
+      </div>
     </main>
-  )
+  );
 }
