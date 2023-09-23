@@ -106,6 +106,22 @@ export default function Home() {
           perkembangannya sebelum Islam, dan suasana persekitaran di mana
           Muhammad SAW diutuskan.
         </p>
+        <h3>Situasi Semenanjung Arab</h3>
+        <p>
+          Perkataan Arab pada bahasa, memberi erti padang pasir atau gurun
+          tandus dan bumi kering tiada air dan tumbuh-tumbuhan. Perkataan ini
+          dinisbahkan sejak berabad silam kepada Semenanjung Arab. Demikian juga
+          dinisbahkan ke atas bangsa yang mendiami bumi itu dan menjadikannya
+          sebagai watan dan negeri mereka. Semenanjung Arab bersempadan dengan
+          laut merah dan Semenanjung Sinai di sebelah barat, di sebelah timur
+          pula bersempadan dengan Teluk Arab yang berlanjutan sampai ke Laut
+          Hindi. Asal <b>Jazirah Al-Arab</b> yang bererti Pulau Arab kerana
+          dikelilingi lautan dan padang pasir, seolah-olah terputus dari bumi
+          lain dan sebahagian besarnya bersempadan dengan selatan negeri Iraq,
+          di bahagian utaranya bersempadan dengan negeri Syam pada beberapa
+          perbatasan yang berlainan. Keluasan padunya dilanggar di antara satu
+          juta dan satu juta tiga ratus ribu batu persegi.
+        </p>
       </div>
     </main>
   );
